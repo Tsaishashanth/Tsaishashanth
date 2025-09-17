@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey 👋, Welcome to my GitHub  
 
-<!--
-**Tsaishashanth/Tsaishashanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things on the web — from simple websites to full projects.  
+Here I keep my experiments, ideas, and work-in-progress projects.  
 
-Here are some ideas to get you started:
+### What I do
+- 💻 I play around with **frontend & backend**  
+- 📚 Always learning something new in **web development**  
+- 🚀 Slowly turning ideas into real projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+- Building and Shipping Projects
+- Exploring **React, Node.js, and databases**  
+- Learning how to make my projects look good and work better  
+
+
+---
+⭐ Feel free to check my repositories — feedback is always welcome!
