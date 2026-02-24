@@ -42,6 +42,10 @@ I am open to remote developer opportunities.
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsaishashanth&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Tsaishashanth&background=E6F0FF&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&hide_border=true" />
 </p>
 
