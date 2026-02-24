@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am a JavaScript developer who enjoys building backend applications.
+I am a JavaScript developer focused on building scalable backend applications.
 
 Right now, I am contributing to JavaScript open source projects and building real-world projects using Node.js and Express.js.
 
@@ -55,7 +55,7 @@ I am open to remote developer opportunities.
 ## Contact
 
 <p align="center">
-  <a href="saishashanthtarigopula@gmail.com">
+  <a href="mailto:saishashanthtarigopula@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
   </a>
   
@@ -67,8 +67,6 @@ I am open to remote developer opportunities.
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
   </a>
 
-  <a href="https://your-contact-link.com">
-    <img src="https://img.shields.io/badge/Contact-Message-blue?style=for-the-badge&logo=telegram" />
-  </a>
+
 </p>
 
