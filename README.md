@@ -1,18 +1,69 @@
-# Hey 👋, Welcome to my GitHub  
+<h1 align="center">Tarigopula Sai Shashanth</h1>
+<h3 align="center">JavaScript Developer • Node.js • Express.js • Open Source Contributor</h3>
 
-I like building things on the web — from simple websites to full projects.  
-Here I keep my experiments, ideas, and work-in-progress projects.  
-
-### What I do
-- 💻 I play around with **frontend & backend**  
-- 📚 Always learning something new in **web development**  
-- 🚀 Slowly turning ideas into real projects  
-
-### Current Focus
-- Building and Shipping Projects
-- Exploring **React, Node.js, and databases**  
-- Learning how to make my projects look good and work better  
-
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Tsaishashanth">
+    <img src="https://komarev.com/ghpvc/?username=Tsaishashanth&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/Tsaishashanth">
+    <img src="https://img.shields.io/github/followers/Tsaishashanth?label=Followers&style=social" />
+  </a>
+</p>
 
 ---
-⭐ Feel free to check my repositories — feedback is always welcome!
+
+## About Me
+
+I am a JavaScript developer who enjoys building backend applications.
+
+Right now, I am contributing to JavaScript open source projects and building real-world projects using Node.js and Express.js.
+
+I am open to remote developer opportunities.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,git,github,postman" />
+</p>
+
+---
+
+## What I’m Working On
+
+- Contributing to JavaScript open source
+- Building fullstack projects
+- Improving my system design knowledge
+- Writing clean and simple code
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tsaishashanth&background=E6F0FF&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="saishashanthtarigopula@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  
+  <a href="https://x.com/SaiXShashanth">
+    <img src="https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=x" />
+  </a>
+
+  <a href="https://shashanthportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+
+  <a href="https://your-contact-link.com">
+    <img src="https://img.shields.io/badge/Contact-Message-blue?style=for-the-badge&logo=telegram" />
+  </a>
+</p>
+
