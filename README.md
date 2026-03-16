@@ -14,11 +14,11 @@
 
 ## About Me
 
-Backend developer focused on building scalable APIs and backend systems using Node.js and JavaScript.
+Backend developer focused on building APIs and backend services using Node.js and JavaScript.
 
-I actively contribute to open source and build real-world backend projects to improve system design and performance.
+I enjoy working on real-world backend problems, contributing to open source, and improving my understanding of system design.
 
-I am open to opportunities.
+Open to developer opportunities.
 
 ---
 
@@ -29,39 +29,36 @@ I am open to opportunities.
 </p>
 
 ---
+
 ## Featured Projects ⭐
 
 ### 🔐 AuthBack
 Node.js • Express • MongoDB • JWT • bcrypt
 
-Secure authentication backend implementing user registration, login, and JWT-based access control.  
-Includes password hashing, token-based authentication, and protected API routes designed for scalable web applications.
+Authentication backend with user registration, login, and JWT-based access control.  
+Includes password hashing and protected API routes.
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Tsaishashanth/authback)
-
 
 ### 📋 Lumaboard
 Node.js • Express • MongoDB • REST API
 
-Backend system for a collaborative board application that allows users to organize tasks and ideas using boards and lists.  
-Designed with RESTful API architecture and structured backend modules to support scalable workflow management.
+Backend for a board-style task management application where users can create and manage boards, lists, and tasks.
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Tsaishashanth/lumaboard)
-
 
 ### 🔎 DevSeekr
 Node.js • Express • MongoDB • REST API
 
-Developer discovery backend that enables searching and exploring developer profiles and projects.  
-Implements RESTful APIs, data management, and backend services for developer-focused platforms.
+Backend service for discovering developer profiles and projects with simple search and profile APIs.
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Tsaishashanth/DevSeekr)
 
 ---
 
-## What I’m Working On
+## What I'm Working On
 
-- Contributing to JavaScript open source projects
+- Contributing to JavaScript open source
 - Building fullstack applications
 - Learning backend system design
 - Writing clean and maintainable code
@@ -75,7 +72,6 @@ Implements RESTful APIs, data management, and backend services for developer-foc
 </p>
 
 <p align="center">
- 
   <img src="https://streak-stats.demolab.com?user=Tsaishashanth&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -95,7 +91,4 @@ Implements RESTful APIs, data management, and backend services for developer-foc
   <a href="https://shashanthportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
   </a>
-
-
 </p>
-
