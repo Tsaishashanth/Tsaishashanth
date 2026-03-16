@@ -29,6 +29,35 @@ I am open to opportunities.
 </p>
 
 ---
+## Featured Projects ⭐
+
+### 🔐 AuthBack
+Node.js • Express • MongoDB • JWT • bcrypt
+
+Secure authentication backend implementing user registration, login, and JWT-based access control.  
+Includes password hashing, token-based authentication, and protected API routes designed for scalable web applications.
+
+🔗 https://github.com/Tsaishashanth/authback
+
+
+### 📋 Lumaboard
+Node.js • Express • MongoDB • REST API
+
+Backend system for a collaborative board application that allows users to organize tasks and ideas using boards and lists.  
+Designed with RESTful API architecture and structured backend modules to support scalable workflow management.
+
+🔗 https://github.com/Tsaishashanth/lumaboard
+
+
+### 🔎 DevSeekr
+Node.js • Express • MongoDB • REST API
+
+Developer discovery backend that enables searching and exploring developer profiles and projects.  
+Implements RESTful APIs, data management, and backend services for developer-focused platforms.
+
+🔗 https://github.com/Tsaishashanth/DevSeekr
+
+---
 
 ## What I’m Working On
 
