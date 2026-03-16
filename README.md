@@ -33,7 +33,7 @@ Open to developer opportunities.
 ## Featured Projects ⭐
 
 ### 🔐 AuthBack
-Node.js • Express • MongoDB • JWT • bcrypt
+`Node.js • Express • MongoDB • JWT • bcrypt`
 
 Authentication backend with user registration, login, and JWT-based access control.  
 Includes password hashing and protected API routes.
@@ -41,14 +41,14 @@ Includes password hashing and protected API routes.
 [![View Repo](https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Tsaishashanth/authback)
 
 ### 📋 Lumaboard
-Node.js • Express • MongoDB • REST API
+`Node.js • Express • MongoDB • REST API`
 
 Backend for a board-style task management application where users can create and manage boards, lists, and tasks.
 
 [![View Repo](https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Tsaishashanth/lumaboard)
 
 ### 🔎 DevSeekr
-Node.js • Express • MongoDB • REST API
+`Node.js • Express • MongoDB • REST API`
 
 Backend service for discovering developer profiles and projects with simple search and profile APIs.
 
