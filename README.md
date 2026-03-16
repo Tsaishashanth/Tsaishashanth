@@ -1,5 +1,5 @@
 <h1 align="center">Tarigopula Sai Shashanth</h1>
-<h3 align="center">JavaScript Developer • Node.js • Express.js • Open Source Contributor</h3>
+<h3 align="center">Backend Developer • Node.js • JavaScript • Open Source</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Tsaishashanth">
@@ -14,28 +14,28 @@
 
 ## About Me
 
-I am a JavaScript developer focused on building scalable backend applications.
+Backend developer focused on building scalable APIs and backend systems using Node.js and JavaScript.
 
-Right now, I am contributing to JavaScript open source projects and building real-world projects using Node.js and Express.js.
+I actively contribute to open source and build real-world backend projects to improve system design and performance.
 
-I am open to remote developer opportunities.
+I am open to opportunities.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=typescript,js,nodejs,express,mongodb,mysql,docker,git,github,postman" />
 </p>
 
 ---
 
 ## What I’m Working On
 
-- Contributing to JavaScript open source
-- Building fullstack projects
-- Improving my system design knowledge
-- Writing clean and simple code
+- Contributing to JavaScript open source projects
+- Building fullstack applications
+- Learning backend system design
+- Writing clean and maintainable code
 
 ---
 
