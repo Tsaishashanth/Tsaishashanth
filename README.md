@@ -14,7 +14,7 @@
 
 ## About Me
 
-Backend developer focused on building APIs and backend services using Node.js and JavaScript.
+FullStack developer focused on building APIs and backend services using Node.js and JavaScript.
 
 I enjoy working on real-world backend problems, contributing to open source, and improving my understanding of system design.
 
