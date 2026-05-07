@@ -76,15 +76,8 @@ Backend service for discovering developer profiles and projects with simple sear
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tsaishashanth&theme=radical&utcOffset=8" />
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tsaishashanth&theme=radical" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsaishashanth&theme=radical" />
-    </td>
-  </tr>
 </table>
+
 
 
 <p align="center">
