@@ -78,19 +78,10 @@ Backend service for discovering developer profiles and projects with simple sear
   </tr>
   <tr>
     <td>
-      <table width="100%">
-        <tr>
-          <td>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tsaishashanth&theme=radical" />
-          </td>
-          <td>
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsaishashanth&theme=radical" />
-          </td>
-        </tr>
-      </table>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tsaishashanth&theme=radical" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Tsaishashanth&theme=tokyonight&hide_border=true" height="170"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsaishashanth&theme=radical" />
     </td>
   </tr>
 </table>
