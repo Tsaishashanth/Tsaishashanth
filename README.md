@@ -67,13 +67,39 @@ Backend service for discovering developer profiles and projects with simple sear
 
 ## GitHub Stats
 
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsaishashanth&theme=radical" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tsaishashanth&theme=radical&utcOffset=8" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table width="100%">
+        <tr>
+          <td>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tsaishashanth&theme=radical" />
+          </td>
+          <td>
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsaishashanth&theme=radical" />
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Tsaishashanth&theme=tokyonight&hide_border=true" height="170"/>
+    </td>
+  </tr>
+</table>
+
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsaishashanth&bg_color=0d1117&color=8bd3dd&line=8bd3dd&point=ffffff&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tsaishashanth&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
