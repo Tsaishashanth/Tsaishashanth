@@ -98,7 +98,7 @@ Backend service for discovering developer profiles and projects with simple sear
     <img src="https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=x" />
   </a>
 
-  <a href="https://shashanthportfolio.vercel.app/">
+  <a href="https://shashanth-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
