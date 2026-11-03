@@ -32,6 +32,27 @@ Open to developer opportunities.
 
 ## Featured Projects ⭐
 
+### ✍️ WriteFlow
+`Next.js • React • TypeScript • Tailwind CSS • AI`
+
+AI-powered developer writing tool that transforms development progress into professional content. Generates pull request descriptions, release notes, changelogs, and social media posts for developers.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Tsaishashanth/WriteFlow)
+
+### 🎥 Veyra
+`Next.js • TypeScript • AI • YouTube`
+
+AI-powered learning assistant that transforms long YouTube educational videos into structured learning materials. Breaks videos into 5-minute sections with summaries, key points, important concepts, and additional learning resources.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Tsaishashanth/veyra)
+
+### ⚡ ZigKV
+`Zig • Key-Value Store • Data Structures`
+
+Lightweight Redis-inspired key-value store built from scratch using Zig. Explores core storage engine concepts, key-value operations, and low-level systems programming.
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Tsaishashanth/ZigKV)
+
 ### 🔐 AuthBack
 `Node.js • Express • MongoDB • JWT • bcrypt`
 
